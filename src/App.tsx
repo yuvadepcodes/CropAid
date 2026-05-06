@@ -97,7 +97,7 @@ export default function App() {
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-start">
                   {/* Image Preview */}
                   <div className="relative rounded-2xl overflow-hidden shadow-2xl aspect-[4/5] bg-gray-100">
-                    <img src={image} alt="Crop preview" className="w-full h-full object-cover" />
+                       src={image} alt="Crop preview" className="w-full h-full object-cover" />
                     {analyzing && (
                       <div className="absolute inset-0 bg-black/40 flex flex-col items-center justify-center text-white backdrop-blur-[2px]">
                         <motion.div
