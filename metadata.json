@@ -1,0 +1,8 @@
+{
+  "name": "KhetiAid: Crop Disease Detector",
+  "description": "An AI-powered tool for smallholder farmers to identify crop diseases instantly and get treatment recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
