@@ -358,7 +358,7 @@ function AboutSection() {
             <div className="relative">
               <div className="aspect-video rounded-[3rem] overflow-hidden shadow-2xl relative z-10 border-[8px] border-white ring-4 ring-brand-primary/5">
                 <img 
-                  src="https://images.unsplash.com/photo-1595841696662-54094400cc54?auto=format&fit=crop&q=80&w=1200" 
+                  src="/group-1.jpg" 
                   alt="Agriculture in India" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
