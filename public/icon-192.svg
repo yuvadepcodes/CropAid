@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" rx="42" fill="url(#greenGrad)" />
+  <defs>
+    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1B4332" />
+      <stop offset="100%" stop-color="#0F2B1F" />
+    </linearGradient>
+  </defs>
+  <path d="M96 40 C115 65, 140 85, 140 115 C140 140, 120 155, 96 155 C72 155, 52 140, 52 115 C52 85, 77 65, 96 40 Z" fill="#E2F1D4" />
+  <path d="M96 40 Q96 155 96 155" stroke="#1B4332" stroke-width="3" stroke-linecap="round" />
+  <path d="M96 85 Q75 90 65 105" stroke="#1B4332" stroke-width="2.5" stroke-linecap="round" fill="none" />
+  <path d="M96 105 Q115 110 125 125" stroke="#1B4332" stroke-width="2.5" stroke-linecap="round" fill="none" />
+  <path d="M96 115 Q75 120 62 135" stroke="#1B4332" stroke-width="2.5" stroke-linecap="round" fill="none" />
+  <circle cx="96" cy="95" r="30" stroke="#70E000" stroke-width="2.5" stroke-dasharray="6,4" fill="none" opacity="0.85" />
+  <line x1="96" y1="55" x2="96" y2="135" stroke="#70E000" stroke-width="1.5" stroke-dasharray="2,3" opacity="0.6" />
+  <line x1="56" y1="95" x2="136" y2="95" stroke="#70E000" stroke-width="1.5" stroke-dasharray="2,3" opacity="0.6" />
+</svg>

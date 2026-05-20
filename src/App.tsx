@@ -187,7 +187,7 @@ function Hero() {
             Protecting Yields for <br /><span className="font-bold text-brand-primary heading-serif">Indian Smallholders.</span>
           </h1>
           <p className="text-lg md:text-xl text-brand-primary/80 max-w-2xl mx-auto mb-10 font-light leading-relaxed">
-            A bridge between plant pathology and technology, reducing the <span className="font-bold text-brand-accent">35% annual crop loss</span> through MobileNetV2 computer vision.
+            An intelligent companion for modern farming. Empowering smallholders to instantly diagnose plant diseases, access organic treatment strategies, and maximize yields.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
              <button 
@@ -358,7 +358,7 @@ function AboutSection() {
             <div className="relative">
               <div className="aspect-video rounded-[3rem] overflow-hidden shadow-2xl relative z-10 border-[8px] border-white ring-4 ring-brand-primary/5">
                 <img 
-                  src="/group-1.jpg" 
+                  src="https://images.unsplash.com/photo-1595841696662-54094400cc54?auto=format&fit=crop&q=80&w=1200" 
                   alt="Agriculture in India" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
@@ -373,7 +373,7 @@ function AboutSection() {
               </p>
               <div className="space-y-6">
                 {[
-                  { title: "Deep Learning Core", desc: "Fine-tuned MobileNetV2 architecture trained on 54,000+ labeled images." },
+                  { title: "AI Diagnostic Engine", desc: "Advanced vision model fine-tuned on 54,000+ pathological crop leaf samples." },
                   { title: "Rural-First UX", desc: "Focused on high legibility, large touch targets, and offline-friendly guidance." },
                   { title: "Actionable Intelligence", desc: "Built-in remedy database providing immediate organic and medicinal treatments." }
                 ].map((item, idx) => (

@@ -1,0 +1,33 @@
+{
+  "name": "KhetiAid: Crop Disease Detector",
+  "short_name": "KhetiAid",
+  "description": "An AI-powered tool for smallholder farmers to identify crop diseases instantly and get treatment recommendations.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F1EA",
+  "theme_color": "#1B4332",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["agriculture", "productivity", "utilities"],
+  "shortcuts": [
+    {
+      "name": "Open Diagnostic Tool",
+      "short_name": "Diagnose",
+      "url": "/#detector",
+      "icons": [{ "src": "/icon-192.svg", "sizes": "192x192" }]
+    }
+  ]
+}
